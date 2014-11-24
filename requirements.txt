@@ -9,4 +9,5 @@ PyMySQL==0.6.2
 PyYAML==3.11
 nltk==3.0.0
 pony==0.6
+mongoengine
 
